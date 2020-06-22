@@ -1,4 +1,6 @@
-Personal Webpage about myself, my projects, development and CV
+# **Ze-Dev - Personal Dev Website**
+### _Personal Webpage about myself, my projects, development and CV_
+
 
 ## Welcome to GitHub Pages
 
